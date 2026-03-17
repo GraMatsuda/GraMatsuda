@@ -1,6 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GraMatsuda&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GraMatsuda&layout=donut&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GraMatsuda&theme=tokyo-night)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GraMatsuda&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GraMatsuda&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GraMatsuda&theme=tokyonight) 
